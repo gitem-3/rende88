@@ -2,10 +2,10 @@
 
 # 设置各变量
 WSPATH=${WSPATH:-'argo'}
-UUID=${UUID:-'8e3063d2-3039-4c78-bb76-fa85b2d05d61'}
+UUID=${UUID:-'973c5fdd-0931-4802-a339-e63e7bd0dc67'}
 
 # 其他Paas保活
-PAAS1_URL=
+PAAS1_URL=https://redio.onrender.com/
 PAAS2_URL=
 PAAS3_URL=
 PAAS4_URL=
